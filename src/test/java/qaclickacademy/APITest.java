@@ -10,6 +10,10 @@ public class APITest {
 		System.out.println("API TEST3");
 		System.out.println("API TEST4");
 		
+		System.out.println("API TEST5");
+		System.out.println("API TEST6");
+		System.out.println("API TEST7");
+		
 	}
 	@Test
 	public void APITest2() {
