@@ -18,6 +18,7 @@ public class APITest {
 	@Test
 	public void APITest2() {
 		System.out.println("API TEST2");
+		System.out.println("API TEST10");
 	}
 
 }
